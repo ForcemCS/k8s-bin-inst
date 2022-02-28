@@ -305,3 +305,4 @@ root@k8s-master01 ~]# scp -rp k8s-certs-generator/kubernetes/kubelet/*  k8s-node
 
 ~]# kubectl certificate approve CSR_NAME
 
+Manually deploying a  kubernetes cluster
